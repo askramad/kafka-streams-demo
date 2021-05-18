@@ -1,0 +1,6 @@
+Kafka est utilisé principalement pour la mise en place de « data pipeline »
+temps réel mais ce n'est pas sa seule application possible dans le monde de l'entreprise.
+Il est aussi de plus en plus utilisé dans les architectures micro services comme système d’échange,
+dans la supervision temps réel et dans l’IOT14. Kafka apporte sa capacité à ingérer et diffuser une
+grande quantité de données, couplé à un framework de data stream processing,
+il permet le traitement complexe et en temps réel des données.
